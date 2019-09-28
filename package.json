@@ -1,0 +1,15 @@
+{
+  "name": "js-plug-wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper module to hold prettier-eslint and prettier-standard for installation with vim-plug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "prettier-eslint": "^9.0.0",
+    "prettier-standard": "^15.0.1"
+  }
+}
