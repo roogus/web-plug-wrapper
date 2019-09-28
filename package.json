@@ -1,5 +1,5 @@
 {
-  "name": "js-plug-wrapper",
+  "name": "web-plug-wrapper",
   "version": "1.0.0",
   "description": "A wrapper module to hold prettier-eslint and prettier-standard for installation with vim-plug",
   "main": "index.js",
